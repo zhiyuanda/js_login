@@ -1,6 +1,10 @@
 >   参考来源：
 >
 > [JavaScript基础语法-dom-bom-js-es6新语法-jQuery-数据可视化echarts黑马pink老师前端入门基础视频教程(500多集)持续_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Sy4y1C7ha?p=244&spm_id_from=pageDriver)
+##  效果展示：
+
+![img](https://img-blog.csdnimg.cn/ac55f525a162474ab2cb5917fd678795.gif)
+
 
 ## 网页GitHub地址如下：（若加载较慢建议刷新后耐心等待一会~）
 
